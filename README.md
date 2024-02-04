@@ -55,5 +55,5 @@ library(SingleR)
 
 autoscRNA is available on GitHub, please run the following command:
 ``` r
-remotes::install_github('JiaxuanYang1204/scRNA_autopipeR/autoscRNA')
+remotes::install_github('JiaxuanYang1204/CellScripterX/CellScripterX')
 ```
